@@ -1,0 +1,11 @@
+{
+  "extends": ["metarhia", "plugin:qwik/recommended"],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  }
+}
